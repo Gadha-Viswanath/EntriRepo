@@ -1,5 +1,8 @@
 # EntriRepo
 Power BI Project
+
+
+
 Details Page
 ************
 July had the highest DC and was 17,67,016.65% higher than January, which had the lowest DC at 889. DC and total AC are positively correlated with each other.﻿ July accounted for 36.21% of DC. Across all 7 Month, DC ranged from 889 to 15709667, AC ranged from 36807 to 147591957, and RC ranged from 838 to 199594224.
