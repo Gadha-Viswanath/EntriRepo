@@ -1,7 +1,7 @@
 # EntriRepo
 Power BI Project
 
-
+This report provides a detailed analysis of the Covid 19 through some key lenses such as Active, Confirmed, Death and Recovered Cases. To make the report more interactive, four buttons labeled "Details", "Active&Confirmed cases", "Recovered cases" and "Death cases" are provided . By clicking on the respective button, the reader can focus on the desired data set:
 
 Details Page
 ************
